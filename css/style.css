@@ -1,0 +1,52 @@
+
+.logo{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search{
+    text-align: center;
+    margin: auto;
+    background-color: #EEEEEE;
+    width: 95%;
+}
+
+
+
+.sol{
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 37%;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2.5%;
+    height: 80px;
+    padding-top: 10px;
+    
+
+}
+
+.orta {
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 17%;
+    padding-top: 10px;
+    margin: 2px;
+    float: left;
+    height: 80px;
+}
+
+.sag{
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 775px;
+    margin: 2px;
+    height: 80px;
+    padding-top: 10px;
+    float: left;
+}
+
+
+.clear {
+    clear: both;
+}
